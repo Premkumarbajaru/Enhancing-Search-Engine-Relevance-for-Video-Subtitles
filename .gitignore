@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+Dataset/
+recordings/
+subsearch/
+.env
+cleaned_subtitles.parquet
+subtitles_full.parquet
+users.json
+history.db
+chroma_db/
